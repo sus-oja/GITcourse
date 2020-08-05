@@ -1,4 +1,2 @@
- Changes in file.
+ Changes in file
  New changes.
- 
- Adding new, experimental functionality.
